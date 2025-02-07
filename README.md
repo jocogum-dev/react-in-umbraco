@@ -2,7 +2,7 @@
 
 ## About
 
-This is a project following an article in 24 days of umbraco integrating a react component into the template of an Umbraco project.
+This is a project following an article in 24 days in Umbraco integrating a react component into the template of an Umbraco project.
 https://24days.in/umbraco-cms/2024/react-islands/
 
 
